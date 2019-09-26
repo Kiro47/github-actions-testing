@@ -1,3 +1,3 @@
-var test = ("bad" + "code")
+var test = ('bad' + 'code')
 
-console.log(test + "really bad")
+console.log(test + 'really bad')
