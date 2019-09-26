@@ -4,7 +4,7 @@ A barebones Node.js app using [Express 4](http://expressjs.com/).
 
 ## Badges
 
-[![Actions Status](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg)](https://github.com/{owner}/{repo}/actions)
+[![Actions Status](https://github.com/Kiro47/github-actions-testing/workflows/CI/badge.svg)](https://github.com/Kiro47/github-actions-testing/actions)
 
 ## Running Locally
 
